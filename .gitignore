@@ -3,7 +3,7 @@
 
 # Tài liệu nội bộ của giảng viên — không phát cho học viên
 docs/
-
+.env
 .venv/
 __pycache__/
 .pytest_cache/
